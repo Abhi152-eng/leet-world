@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhi152-eng/leet-world/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Abhi152-eng/leet-world/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Abhi152-eng/leet-world/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
