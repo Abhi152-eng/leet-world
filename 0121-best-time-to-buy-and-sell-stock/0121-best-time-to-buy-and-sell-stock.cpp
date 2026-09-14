@@ -4,6 +4,9 @@ public:
         int len = prices.size();
         int buy = prices[0];
         int profit = 0;
+        if(prices.empty()){
+            return 0;
+        }
 
         for(int i = 1; i < len; i++) {
 
